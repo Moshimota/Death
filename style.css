@@ -1,0 +1,656 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Inter', sans-serif;
+}
+header{
+    padding-bottom: 100px;
+}
+nav{
+    margin-top: 15px;
+}
+.logo{
+    margin-left: 25px;
+}
+.b{
+    font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #3A3A44;
+margin-top: 3px;
+margin-bottom: 0;
+}
+.ba{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+
+color: #3A3A44;
+margin-top: 3px;
+}
+.ban{
+    margin-top: 150px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 36px;
+
+color: #3A3A44;
+
+}
+.bank{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+
+color: #6C6C6C;
+margin-top: 15px;
+}
+.banka{
+    margin-top: 33px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+padding: 15px 42px;
+background: #2D3D8A;
+border-radius: 8px;
+border: 1px solid #FFFFFF;
+    margin-right: 20px;
+}
+.banka2{
+    margin-top: 33px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #2D3D8A;
+padding: 15px 42px;
+background: #FFFFFF;
+border-radius: 8px;
+border: 1px solid #2D3D8A;
+    margin-right: 20px;
+}
+.banka:hover{
+    background: #FFFFFF;
+    color: #2D3D8A;
+    border: 1px solid #2D3D8A;
+}
+.banka2:hover{
+    background: #2D3D8A;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+.bankay{
+    display: flex;
+    margin-top: 120px;
+}
+.z{
+    width: 33.3333%;
+    text-align: center;
+}
+.za{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #2D3D8A;
+
+}
+.zan{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+}
+.bek {
+    margin-left: -158px;
+    height: 100%;
+    width: 140%;
+    display: flex;
+    gap: 17px;
+    justify-content: end;
+    background: url(./img/Group\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bek3{
+    height: 290px;
+    width: 100%;
+    background: url(./img/Group\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.bek2{
+
+    display: flex;
+    justify-content: space-between;
+}
+.naruto{
+    color: #FFFFFF;
+    width: 35px;
+height: 35px;
+background: #5A6FD7;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 50%;
+}
+.kakoy{
+    margin-left: 47px;
+    border-radius: 50%;
+    margin-top: -2px;
+}
+.lol{
+    margin-top: 90px;
+    font-weight: 500;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #3A3A44;
+
+}
+.lolo{
+    color: #2D3D8A;
+}
+.card1{
+    width: 100%;
+    display: flex;
+    gap: 40px;
+    background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(45, 61, 138, 0.2);
+border-radius: 10px;
+border-bottom: 2px solid #2D3D8A;
+padding: 30px;
+margin-top: 60px;
+}
+.trans{
+    font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #3A3A44;
+
+}
+.low{
+    font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+
+color: #6C6C6C;
+
+}
+.sec1{
+    background: #2D3D8A;
+    padding-bottom: 100px;
+    padding-top: 200px;
+}
+.dfs{
+    
+    padding-top: 60px;
+}
+.df{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+}
+.ot{
+    font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+margin-bottom: 4px;
+}
+.lof{
+    font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+
+color: #DEDEDE;
+margin-top: 3px;
+}
+.deh{
+    margin-top: 10px;
+}
+.koz{
+    margin-bottom: -68%;
+}
+.kon{
+    font-weight: 500;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+    margin-top: 100px;
+}
+.pochka{
+    font-weight: 500;
+font-size: 30px;
+line-height: 36px;
+
+color: #3A3A44;
+margin-top: 160px;
+}
+.lork{
+    font-weight: 400;
+font-size: 19px;
+line-height: 19px;
+
+color: #6C6C6C;
+margin-top: 30px;
+}
+.kork{
+    color: #2D3D8A;
+}
+.dotavka{
+    width: 100%;
+    margin-top: 130px;
+}
+.card2{
+    display: flex;
+    margin-top: 40px;
+}
+.bag{
+    font-weight: 500;
+font-size: 25px;
+line-height: 24px;
+
+color: #3A3A44;
+
+}
+.func{
+    font-weight: 300;
+font-size: 21px;
+line-height: 19px;
+
+color: #6C6C6C;
+
+}
+.kol{
+    margin-left: 15px;  
+}
+.hot{
+    margin-top: 100px;
+    text-align: center;
+    font-weight: 500;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #3A3A44;
+
+}
+.card3{
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 21px;
+    background: #FFFFFF;
+box-shadow: 0px 0px 30px rgba(90, 111, 215, 0.25);
+border-radius: 20px;
+margin-top: 60px;
+}
+.df0{
+    display: flex;
+    gap: 25px;
+}
+.tho{
+    font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #3A3A44;
+margin-bottom: 15px;
+}
+.mok{
+    font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+
+color: #6C6C6C;
+margin-top: 15px;
+}
+.go{
+    font-weight: 300;
+font-size: 22px;
+line-height: 19px;
+
+color: #6C6C6C;
+margin-top: 20px;
+}
+.card4{
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 100%;
+height: 138px;
+    background: #5D70D6;
+border-radius: 20px;
+margin-top: 80px;
+margin-bottom: -70px;
+}
+.ko{
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card42 {
+    padding-top: 50px;
+    padding-left: 17px;
+    width: 100%;
+    background: #5D70D6;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: -100px;
+    padding-bottom: 50px;
+}
+.btn1{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #2D3D8A;
+height: 50px;
+
+background: #FFFFFF;
+border-radius: 6px;
+border: none;
+}
+.jo{
+    font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+}
+.gof{
+    margin-top: 168px;
+}
+.b2{
+    font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.ba2{
+    font-weight: 300;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+footer{
+    background: #2D3D8A;
+    padding-bottom: 100px;
+}
+.kont{
+    margin-top: 168px;
+    font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+}
+.yu{
+    margin-top: 8px;
+    font-weight: 300;
+font-size: 13px;
+line-height: 19px;
+
+color: #DEDEDE;
+
+}
+.dfg{
+    display: flex;
+    margin-top: 168px;
+    gap: 17px;
+}
+@media(max-width: 565px){
+    .kak{
+        width: 44.62px;
+        height: 30px;
+    }
+    .kakoy {
+        margin-left: 0;
+        border-radius: 50%;
+        margin-top: -2px;
+    }
+    .b {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 22px;
+        text-transform: uppercase;
+        color: #3A3A44;
+        margin-top: 3px;
+        margin-bottom: 0;
+    }
+    .ba {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 7px;
+        line-height: 12px;
+        text-transform: uppercase;
+        color: #3A3A44;
+        margin-top: 3px;
+    }
+    .logo {
+        margin-left: 10px;
+    }   
+    .ban {
+        margin-top: 30px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 21px;
+        line-height: 36px;
+        color: #3A3A44;
+    }
+    .bank {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 19px;
+        color: #6C6C6C;
+        margin-top: 15px;
+    }
+    .banka {
+        margin-top: 33px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19px;
+        color: #FFFFFF;
+        padding: 15px 42px;
+        background: #2D3D8A;
+        border-radius: 8px;
+        width: 108%;
+        height: 50px;
+        border: 1px solid #FFFFFF;
+        margin-right: 0;
+    }   
+    .bankay {
+        display: flex;
+        margin-top: 70px;
+        gap: 40px;
+    } 
+    .lol {
+        margin-top: 50px;
+        font-weight: 500;
+        font-size: 28px;
+        line-height: 36px;
+        text-align: center;
+        color: #3A3A44;
+    }
+    .low {
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 19px;
+        color: #6C6C6C;
+    } 
+    .kon {
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 36px;
+        color: #FFFFFF;
+        margin-top: 0;
+        padding-top: 50px;
+        text-align: center;
+        padding-bottom: 50px;
+    }
+    .koz {
+        width: 100%;
+        margin-bottom: 0;
+    }
+    .dfs {
+        margin-top: 50px;
+    }
+    .banka2 {
+        margin-top: 33px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19px;
+        color: #2D3D8A;
+        padding: 15px 42px;
+        background: #FFFFFF;
+        width: 100%;
+        border-radius: 8px;
+        border: 1px solid #2D3D8A;
+        margin-right: 0;
+    }
+    .pochka {
+        font-weight: 500;
+        font-size: 26px;
+        line-height: 36px;
+        color: #3A3A44;
+        margin-top: 50px;
+        text-align: center;
+    }
+    .dotavka {
+        width: 100%;
+        margin-top: 50px;
+    }
+    .lork {
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 19px;
+        color: #6C6C6C;
+        margin-top: 30px;
+    }
+    .bag {
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 24px;
+        color: #3A3A44;
+    }
+    .func {
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 19px;
+        color: #6C6C6C;
+    }
+    .hot {
+        margin-top: 50px;
+        text-align: center;
+        font-weight: 500;
+        font-size: 26px;
+        line-height: 36px;
+        text-align: center;
+        color: #3A3A44;
+    }
+    .go {
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 19px;
+        color: #6C6C6C;
+        margin-top: 20px;
+    }
+    .jo {
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 36px;
+        color: #FFFFFF;
+    }
+    .btn1 {
+        padding-left: 5px;
+        padding-right: 5px;
+        width: 100%;
+        margin-left: -17px;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19px;
+        color: #2D3D8A;
+        height: 50px;
+        background: #FFFFFF;
+        border-radius: 6px;
+        border: none;
+    }
+    .gof {
+        margin-top: 168px;
+        text-align: center;
+    }
+    .dfg {
+        display: flex;
+        margin-top: 10px;
+        gap: 17px;
+    }
+    .dfh{
+        display: flex;
+        gap: 17px;
+        justify-content: center;
+    }
+    .kont {
+        margin-top: 35px;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 19px;
+        color: #FFFFFF;
+    }
+    .yu {
+        margin-top: 8px;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 19px;
+        color: #DEDEDE;
+    }
+}
